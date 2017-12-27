@@ -1,0 +1,1 @@
+Class project for CS 151 that allows users to interactively create events and access the days of the month using Java's GUI. Project uses the MVC pattern. 
